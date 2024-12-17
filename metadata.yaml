@@ -1,0 +1,49 @@
+_repo: De-l-assassinat-considere-comme-un-des-Beaux-Arts_74790
+_version: 0.0.1
+alternative_title: On murder considered as one of the fine arts. French
+contributor:
+  translator:
+    agent_name: Fontainas, André
+    alias: Fontainas, Andre
+    birthdate: 1865
+    deathdate: 1948
+    gutenberg_agent_id: '57646'
+    url: http://www.gutenberg.org/2009/agents/57646
+    wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Fontainas
+creator:
+  author:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - Quincey, Thomas de
+    - Quincy, Thomas de
+    - Kvinsi, Tomas de
+    - DeQuincey, Thomas
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_De_Quincey
+description: ''
+gutenberg_issued: '2024-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74790'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k54758325
+pgterms:marc905: 20230402052143quincey
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bMercure de France, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder in literature'
+- !lcsh 'Murder -- England -- History'
+- !lcc 'PR'
+- GITenberg
+title: De l'assassinat considéré comme un des Beaux-Arts
+url: http://www.gutenberg.org/ebooks/74790
